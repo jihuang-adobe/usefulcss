@@ -8,4 +8,14 @@
 
 .cmp-teaser--text-overlay .cmp-teaser__content {
   position: absolute;
+  width: 35%;
+  margin: 15px;
+}
+
+.cmp-teaser--text-overlay .cmp-teaser__content .cmp-teaser__title {
+    line-height: 1;
+}
+
+.cmp-teaser--text-overlay .cmp-teaser__content .cmp-teaser__description p {
+    line-height: 1;
 }

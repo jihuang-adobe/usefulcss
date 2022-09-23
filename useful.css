@@ -23,3 +23,7 @@
 .cmp-title--center .cmp-title__text {
   text-align: center; 
 }
+
+.text .cmp-text {
+  line-height: 1.5;
+}
